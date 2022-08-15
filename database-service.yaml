@@ -8,3 +8,4 @@ spec:
   ports:
     - port: 
       targetPort: 
+  type: ClusterIP 
